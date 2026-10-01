@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="610px" font-size="16px"
+     font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" role="img"
+     aria-labelledby="card-title card-desc">
+<title id="card-title">Ervin Ubinin — Software Developer</title>
+<desc id="card-desc">Software developer from Riga, Latvia: Python, TypeScript, SQL; FastAPI, PostgreSQL, Redis; web scraping with Playwright and curl_cffi; Docker, Linux and GitHub Actions; Claude, OpenAI and Gemini APIs.</desc>
+<defs>
+<linearGradient id="logo" gradientUnits="userSpaceOnUse" x1="15" y1="184" x2="267" y2="434">
+<stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#d2a8ff"/>
+</linearGradient>
+</defs>
+<style>
+text, tspan { white-space: pre; }
+.key { fill: #ffa657; } .value { fill: #a5d6ff; } .cc { fill: #616e7f; } .c { fill: #616e7f; }
+.logo { fill: url(#logo); }
+</style>
+<rect width="985px" height="610px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="200"><tspan class="logo">    ███████</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">╗    </tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="218"><tspan class="logo">    ██</tspan><tspan class="c">╔════╝ </tspan><tspan class="logo">██</tspan><tspan class="c">║    </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
+<tspan x="15" y="236"><tspan class="logo">    █████</tspan><tspan class="c">╗   </tspan><tspan class="logo">██</tspan><tspan class="c">║ </tspan><tspan class="logo">█</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
+<tspan x="15" y="254"><tspan class="logo">    ██</tspan><tspan class="c">╔══╝   </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan><tspan class="logo">███</tspan><tspan class="c">╗</tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
+<tspan x="15" y="272"><tspan class="logo">    ███████</tspan><tspan class="c">╗ ╚</tspan><tspan class="logo">███</tspan><tspan class="c">╔</tspan><tspan class="logo">███</tspan><tspan class="c">╔╝</tspan></tspan>
+<tspan x="15" y="290"><tspan class="c">    ╚══════╝  ╚══╝╚══╝</tspan></tspan>
+<tspan x="15" y="326"><tspan class="logo">██████</tspan><tspan class="c">╗  </tspan><tspan class="logo">███</tspan><tspan class="c">╗   </tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██████</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="344"><tspan class="c">╚════</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">████</tspan><tspan class="c">╗  </tspan><tspan class="logo">██</tspan><tspan class="c">║ ╚════</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="362"><tspan class="logo"> █████</tspan><tspan class="c">╔╝ </tspan><tspan class="logo">██</tspan><tspan class="c">╔</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║  </tspan><tspan class="logo">█████</tspan><tspan class="c">╔╝</tspan></tspan>
+<tspan x="15" y="380"><tspan class="c"> ╚═══</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║╚</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan><tspan class="logo">██</tspan><tspan class="c">║  ╚═══</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="398"><tspan class="logo">██████</tspan><tspan class="c">╔╝ </tspan><tspan class="logo">██</tspan><tspan class="c">║ ╚</tspan><tspan class="logo">████</tspan><tspan class="c">║ </tspan><tspan class="logo">██████</tspan><tspan class="c">╔╝</tspan></tspan>
+<tspan x="15" y="416"><tspan class="c">╚═════╝  ╚═╝  ╚═══╝ ╚═════╝</tspan></tspan>
+</text>
+<text x="330" y="30" fill="#c9d1d9">
+<tspan x="330" y="30">ervin@ubinin ———————————————————————————————————————————————</tspan>
+<tspan x="330" y="50"><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows 11, Ubuntu Linux</tspan></tspan>
+<tspan x="330" y="70"><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">4 years, 1 month of coding</tspan></tspan>
+<tspan x="330" y="90"><tspan class="key">Host</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Rīgas Valsts tehnikums</tspan></tspan>
+<tspan x="330" y="110"><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Software Developer</tspan></tspan>
+<tspan x="330" y="130"><tspan class="key">Location</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Riga, Latvia</tspan></tspan>
+<tspan x="330" y="150"><tspan class="key">Focus</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Backend · Web scraping · DevOps</tspan></tspan>
+<tspan x="330" y="190"><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Python, TypeScript, SQL, Bash</tspan></tspan>
+<tspan x="330" y="230"><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">FastAPI, PostgreSQL, Redis</tspan></tspan>
+<tspan x="330" y="250"><tspan class="key">Stack.Scraping</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Playwright, curl_cffi, XHR interception</tspan></tspan>
+<tspan x="330" y="270"><tspan class="key">Stack.DevOps</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Docker, Linux, GitHub Actions</tspan></tspan>
+<tspan x="330" y="310"><tspan class="key">AI.Anthropic</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Claude Opus 5.5, Sonnet 5.5, Fable 5.1</tspan></tspan>
+<tspan x="330" y="330"><tspan class="key">AI.OpenAI</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">GPT-6 Astra</tspan></tspan>
+<tspan x="330" y="350"><tspan class="key">AI.Google</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Gemini 4 Argon</tspan></tspan>
+<tspan x="330" y="390"><tspan class="key">Project</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">MarketPulse (price monitoring)</tspan></tspan>
+<tspan x="330" y="430">- Contact ——————————————————————————————————————————————————</tspan>
+<tspan x="330" y="450"><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">ervinubinin1@gmail.com</tspan></tspan>
+<tspan x="330" y="470"><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">in/ervīns-ubiņins-4099653a3</tspan></tspan>
+<tspan x="330" y="510">- GitHub Stats —————————————————————————————————————————————</tspan>
+<tspan x="330" y="530"><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">— {Contributed: —}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="330" y="550"><tspan class="key">Commits (last 12 mo)</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">—</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="330" y="590"><tspan fill="#484f58">███</tspan><tspan fill="#ff7b72">███</tspan><tspan fill="#3fb950">███</tspan><tspan fill="#d29922">███</tspan><tspan fill="#58a6ff">███</tspan><tspan fill="#bc8cff">███</tspan><tspan fill="#39c5cf">███</tspan><tspan fill="#b1bac4">███</tspan></tspan>
+</text>
+</svg>
