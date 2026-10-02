@@ -22,7 +22,7 @@ on a Linux server with automated deployments.
 | **Backend** | REST APIs with FastAPI and Pydantic · async SQLAlchemy / SQLModel · PostgreSQL schema design and Alembic migrations · Redis job queues · JWT authentication · Telegram and e-mail notifications |
 | **Web scraping & data** | Playwright (Chrome) and curl_cffi · reading the JSON that sites embed in their pages · intercepting XHR/Fetch requests and reverse-engineering site APIs · normalising and matching the same product across stores · validation and de-duplication |
 | **DevOps** | Docker and Docker Compose · Linux (Ubuntu) servers · Caddy reverse proxy with automatic HTTPS · GitHub Actions CI/CD |
-| **AI integration** | Anthropic Claude Opus 5.5, Sonnet 5.5 and Fable 5.1 · OpenAI GPT-6 Astra · Google Gemini 4 Argon — through their APIs, for CSS-selector generation that repairs scrapers, data extraction, and chat assistants that answer from a database |
+| **AI integration** | Anthropic Claude Opus 5.5, Sonnet 5.5 and Fable 5.1 · OpenAI GPT-6 Astra · Google Gemini Flash and Pro models — through their APIs, for CSS-selector generation that repairs scrapers, data extraction, and chat assistants that answer from a database |
 | **Frontend** | React and TypeScript with Tailwind CSS — dashboards for my own services |
 
 <img src="https://raw.githubusercontent.com/EEw3n3/EEw3n3/main/divider.svg" width="100%" height="6" alt="">
