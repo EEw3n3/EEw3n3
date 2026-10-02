@@ -52,7 +52,7 @@ INFO = [
     ("blank",),
     ("kv", "AI.Anthropic", "Claude Opus 5.5, Sonnet 5.5, Fable 5.1"),
     ("kv", "AI.OpenAI", "GPT-6 Astra"),
-    ("kv", "AI.Google", "Gemini 4 Argon"),
+    ("kv", "AI.Google", "Gemini Flash; Pro models"),
     ("blank",),
     ("kv", "Project", "MarketPulse (price monitoring)"),
     ("blank",),
