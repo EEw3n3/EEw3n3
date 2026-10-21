@@ -91,5 +91,3 @@ and notifies users when a price drops.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2328?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/erv%C4%ABns-ubi%C5%86ins-4099653a3/)
 [![Email](https://img.shields.io/badge/ervinubinin1%40gmail.com-1f2328?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ervinubinin1@gmail.com)
-
-<sub>The card at the top is drawn by <a href="generate_card.py">a Python script</a> and refreshed every day by GitHub Actions.</sub>
