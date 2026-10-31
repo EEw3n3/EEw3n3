@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="610px" font-size="16px"
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="590px" font-size="16px"
      font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" role="img"
      aria-labelledby="card-title card-desc">
-<title id="card-title">Ervin Ubinin — Software Developer</title>
+<title id="card-title">Ervīns Ubiņins — Software Developer</title>
 <desc id="card-desc">Software developer from Riga, Latvia: Python, TypeScript, SQL; FastAPI, PostgreSQL, Redis; web scraping with Playwright and curl_cffi; Docker, Linux and GitHub Actions; Claude, OpenAI and Gemini APIs.</desc>
 <defs>
-<linearGradient id="logo" gradientUnits="userSpaceOnUse" x1="15" y1="184" x2="267" y2="434">
+<linearGradient id="logo" gradientUnits="userSpaceOnUse" x1="15" y1="174" x2="267" y2="424">
 <stop offset="0" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/>
 </linearGradient>
 </defs>
@@ -14,20 +14,20 @@ text, tspan { white-space: pre; }
 .key { fill: #953800; } .value { fill: #0a3069; } .cc { fill: #8c959f; } .c { fill: #8c959f; }
 .logo { fill: url(#logo); }
 </style>
-<rect width="985px" height="610px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="590px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f">
-<tspan x="15" y="200"><tspan class="logo">    ███████</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">╗    </tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
-<tspan x="15" y="218"><tspan class="logo">    ██</tspan><tspan class="c">╔════╝ </tspan><tspan class="logo">██</tspan><tspan class="c">║    </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
-<tspan x="15" y="236"><tspan class="logo">    █████</tspan><tspan class="c">╗   </tspan><tspan class="logo">██</tspan><tspan class="c">║ </tspan><tspan class="logo">█</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
-<tspan x="15" y="254"><tspan class="logo">    ██</tspan><tspan class="c">╔══╝   </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan><tspan class="logo">███</tspan><tspan class="c">╗</tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
-<tspan x="15" y="272"><tspan class="logo">    ███████</tspan><tspan class="c">╗ ╚</tspan><tspan class="logo">███</tspan><tspan class="c">╔</tspan><tspan class="logo">███</tspan><tspan class="c">╔╝</tspan></tspan>
-<tspan x="15" y="290"><tspan class="c">    ╚══════╝  ╚══╝╚══╝</tspan></tspan>
-<tspan x="15" y="326"><tspan class="logo">██████</tspan><tspan class="c">╗  </tspan><tspan class="logo">███</tspan><tspan class="c">╗   </tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██████</tspan><tspan class="c">╗</tspan></tspan>
-<tspan x="15" y="344"><tspan class="c">╚════</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">████</tspan><tspan class="c">╗  </tspan><tspan class="logo">██</tspan><tspan class="c">║ ╚════</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
-<tspan x="15" y="362"><tspan class="logo"> █████</tspan><tspan class="c">╔╝ </tspan><tspan class="logo">██</tspan><tspan class="c">╔</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║  </tspan><tspan class="logo">█████</tspan><tspan class="c">╔╝</tspan></tspan>
-<tspan x="15" y="380"><tspan class="c"> ╚═══</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║╚</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan><tspan class="logo">██</tspan><tspan class="c">║  ╚═══</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
-<tspan x="15" y="398"><tspan class="logo">██████</tspan><tspan class="c">╔╝ </tspan><tspan class="logo">██</tspan><tspan class="c">║ ╚</tspan><tspan class="logo">████</tspan><tspan class="c">║ </tspan><tspan class="logo">██████</tspan><tspan class="c">╔╝</tspan></tspan>
-<tspan x="15" y="416"><tspan class="c">╚═════╝  ╚═╝  ╚═══╝ ╚═════╝</tspan></tspan>
+<tspan x="15" y="190"><tspan class="logo">    ███████</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">╗    </tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="208"><tspan class="logo">    ██</tspan><tspan class="c">╔════╝ </tspan><tspan class="logo">██</tspan><tspan class="c">║    </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
+<tspan x="15" y="226"><tspan class="logo">    █████</tspan><tspan class="c">╗   </tspan><tspan class="logo">██</tspan><tspan class="c">║ </tspan><tspan class="logo">█</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
+<tspan x="15" y="244"><tspan class="logo">    ██</tspan><tspan class="c">╔══╝   </tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan><tspan class="logo">███</tspan><tspan class="c">╗</tspan><tspan class="logo">██</tspan><tspan class="c">║</tspan></tspan>
+<tspan x="15" y="262"><tspan class="logo">    ███████</tspan><tspan class="c">╗ ╚</tspan><tspan class="logo">███</tspan><tspan class="c">╔</tspan><tspan class="logo">███</tspan><tspan class="c">╔╝</tspan></tspan>
+<tspan x="15" y="280"><tspan class="c">    ╚══════╝  ╚══╝╚══╝</tspan></tspan>
+<tspan x="15" y="316"><tspan class="logo">██████</tspan><tspan class="c">╗  </tspan><tspan class="logo">███</tspan><tspan class="c">╗   </tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██████</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="334"><tspan class="c">╚════</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">████</tspan><tspan class="c">╗  </tspan><tspan class="logo">██</tspan><tspan class="c">║ ╚════</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="352"><tspan class="logo"> █████</tspan><tspan class="c">╔╝ </tspan><tspan class="logo">██</tspan><tspan class="c">╔</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║  </tspan><tspan class="logo">█████</tspan><tspan class="c">╔╝</tspan></tspan>
+<tspan x="15" y="370"><tspan class="c"> ╚═══</tspan><tspan class="logo">██</tspan><tspan class="c">╗ </tspan><tspan class="logo">██</tspan><tspan class="c">║╚</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan><tspan class="logo">██</tspan><tspan class="c">║  ╚═══</tspan><tspan class="logo">██</tspan><tspan class="c">╗</tspan></tspan>
+<tspan x="15" y="388"><tspan class="logo">██████</tspan><tspan class="c">╔╝ </tspan><tspan class="logo">██</tspan><tspan class="c">║ ╚</tspan><tspan class="logo">████</tspan><tspan class="c">║ </tspan><tspan class="logo">██████</tspan><tspan class="c">╔╝</tspan></tspan>
+<tspan x="15" y="406"><tspan class="c">╚═════╝  ╚═╝  ╚═══╝ ╚═════╝</tspan></tspan>
 </text>
 <text x="330" y="30" fill="#24292f">
 <tspan x="330" y="30">ervin@ubinin ———————————————————————————————————————————————</tspan>
@@ -41,16 +41,15 @@ text, tspan { white-space: pre; }
 <tspan x="330" y="230"><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">FastAPI, PostgreSQL, Redis</tspan></tspan>
 <tspan x="330" y="250"><tspan class="key">Stack.Scraping</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Playwright, curl_cffi, XHR interception</tspan></tspan>
 <tspan x="330" y="270"><tspan class="key">Stack.DevOps</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Docker, Linux, GitHub Actions</tspan></tspan>
-<tspan x="330" y="310"><tspan class="key">AI.Anthropic</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Claude Opus 5.5, Sonnet 5.5, Fable 5.1</tspan></tspan>
-<tspan x="330" y="330"><tspan class="key">AI.OpenAI</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">GPT-6 Astra</tspan></tspan>
-<tspan x="330" y="350"><tspan class="key">AI.Google</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Gemini Flash &amp; Pro models</tspan></tspan>
-<tspan x="330" y="390"><tspan class="key">Project</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">MarketPulse (price monitoring)</tspan></tspan>
-<tspan x="330" y="430">- Contact ——————————————————————————————————————————————————</tspan>
-<tspan x="330" y="450"><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">ervinubinin1@gmail.com</tspan></tspan>
-<tspan x="330" y="470"><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">in/ervīns-ubiņins-4099653a3</tspan></tspan>
-<tspan x="330" y="510">- GitHub Stats —————————————————————————————————————————————</tspan>
-<tspan x="330" y="530"><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">3 {Contributed: 1}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="330" y="550"><tspan class="key">Commits (last 12 mo)</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">682</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="330" y="590"><tspan fill="#24292f">███</tspan><tspan fill="#cf222e">███</tspan><tspan fill="#116329">███</tspan><tspan fill="#4d2d00">███</tspan><tspan fill="#0969da">███</tspan><tspan fill="#8250df">███</tspan><tspan fill="#1b7c83">███</tspan><tspan fill="#6e7781">███</tspan></tspan>
+<tspan x="330" y="310"><tspan class="key">AI.APIs</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Gemini API, structured outputs</tspan></tspan>
+<tspan x="330" y="330"><tspan class="key">AI.Tools</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Claude Code</tspan></tspan>
+<tspan x="330" y="370"><tspan class="key">Projects</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">MarketPulse, JobScraper</tspan></tspan>
+<tspan x="330" y="410">- Contact ——————————————————————————————————————————————————</tspan>
+<tspan x="330" y="430"><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">ervinubinin1@gmail.com</tspan></tspan>
+<tspan x="330" y="450"><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">in/ervins-ubinins-4099653a3</tspan></tspan>
+<tspan x="330" y="490">- GitHub Stats —————————————————————————————————————————————</tspan>
+<tspan x="330" y="510"><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">3 {Contributed: 1}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="330" y="530"><tspan class="key">Commits (last 12 mo)</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">684</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="330" y="570"><tspan fill="#24292f">███</tspan><tspan fill="#cf222e">███</tspan><tspan fill="#116329">███</tspan><tspan fill="#4d2d00">███</tspan><tspan fill="#0969da">███</tspan><tspan fill="#8250df">███</tspan><tspan fill="#1b7c83">███</tspan><tspan fill="#6e7781">███</tspan></tspan>
 </text>
 </svg>
