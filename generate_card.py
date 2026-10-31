@@ -50,15 +50,14 @@ INFO = [
     ("kv", "Stack.Scraping", "Playwright, curl_cffi, XHR interception"),
     ("kv", "Stack.DevOps", "Docker, Linux, GitHub Actions"),
     ("blank",),
-    ("kv", "AI.Anthropic", "Claude Opus 5.5, Sonnet 5.5, Fable 5.1"),
-    ("kv", "AI.OpenAI", "GPT-6 Astra"),
-    ("kv", "AI.Google", "Gemini Flash & Pro models"),
+    ("kv", "AI.APIs", "Gemini API, structured outputs"),
+    ("kv", "AI.Tools", "Claude Code"),
     ("blank",),
-    ("kv", "Project", "MarketPulse (price monitoring)"),
+    ("kv", "Projects", "MarketPulse, JobScraper"),
     ("blank",),
     ("section", "Contact"),
     ("kv", "Email", "ervinubinin1@gmail.com"),
-    ("kv", "LinkedIn", "in/ervīns-ubiņins-4099653a3"),
+    ("kv", "LinkedIn", "in/ervins-ubinins-4099653a3"),
     ("blank",),
     ("section", "GitHub Stats"),
     ("stats",),
@@ -199,7 +198,7 @@ def render(theme: dict, stats: dict) -> str:
 <svg xmlns="http://www.w3.org/2000/svg" width="985px" height="{height}px" font-size="16px"
      font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" role="img"
      aria-labelledby="card-title card-desc">
-<title id="card-title">Ervin Ubinin — Software Developer</title>
+<title id="card-title">Ervīns Ubiņins — Software Developer</title>
 <desc id="card-desc">Software developer from Riga, Latvia: Python, TypeScript, SQL; FastAPI, PostgreSQL, Redis; web scraping with Playwright and curl_cffi; Docker, Linux and GitHub Actions; Claude, OpenAI and Gemini APIs.</desc>
 <defs>
 <linearGradient id="logo" gradientUnits="userSpaceOnUse" x1="15" y1="{top - 16}" x2="{15 + LOGO_COLUMNS * 9}" y2="{top + LOGO_LINE * len(logo)}">
